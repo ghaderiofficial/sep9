@@ -1,0 +1,6 @@
+python-telegram-bot==21.4
+qrcode[pil]==7.4.2
+pillow==10.4.0
+python-dotenv==1.0.1
+arabic-reshaper==3.0.0
+python-bidi==0.4.2
